@@ -1,1 +1,1 @@
-# Airlineregistrationsystem
+An airline registration system in C++ allows passengers to reserve seats on flights and manage their bookings efficiently. It typically includes features such as passenger information storage, and flight scheduling.
